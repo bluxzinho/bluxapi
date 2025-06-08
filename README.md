@@ -28,7 +28,7 @@ Este projeto é uma base completa para criação de uma API em Node.js utilizand
 
 ```bash
 git clone https://github.com/bluxzinho/bluxapi.git
-cd baseApi
+cd bluxapi
 npm install
 ```
 Ou, se preferir:
